@@ -81,7 +81,7 @@ This project is intended for educational and portfolio purposes only. All indica
 | [Incident Report](incident-report.md) | Incident summary and investigation conclusion |
 | [Investigation Findings](evidence/investigation-findings.md) | Technical evidence and behavioral analysis |
 | [MITRE ATT&CK Mapping](mitre/attack-mapping.md) | Mapping of observed behavior to ATT&CK |
-| [SPL Queries](splunk/01-web-attack-detection.spl) | Splunk investigation queries |
+| [SPL Queries](splunk/01-web-attack-detection.md) | Splunk investigation queries |
 
 ## Disclaimer
 
