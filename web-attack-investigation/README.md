@@ -45,11 +45,30 @@ The activity includes:
 
 ## Project Structure
 
-Project files will include:
-- Incident Investigation Report
-- SPL Queries
-- Investigation Findings
-- MITRE ATT&CK Mapping
+```text
+web-attack-investigation/
+├── README.md
+├── incident-report.md
+├── evidence/
+│   └── investigation-findings.md
+├── mitre/
+│   └── attack-mapping.md
+└── splunk/
+    └── 01-web-attack-detection.spl
+```
+
+## Project Documentation
+
+| Document | Description |
+|---|---|
+| [Incident Report](incident-report.md) | Incident summary and investigation conclusion |
+| [Investigation Findings](evidence/investigation-findings.md) | Technical evidence and behavioral analysis |
+| [MITRE ATT&CK Mapping](mitre/attack-mapping.md) | Mapping of observed behavior to ATT&CK |
+| [SPL Queries](splunk/01-web-attack-detection.spl) | Splunk investigation queries |
+
+## Disclaimer
+
+This is an independent educational portfolio project. All publicly shared information is fictional or sanitized. No company logs, customer information, internal infrastructure details, or confidential data are included.
 
 ## Disclaimer
 
