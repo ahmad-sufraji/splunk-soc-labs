@@ -54,3 +54,17 @@ Project files will include:
 ## Disclaimer
 
 This project is intended for educational and portfolio purposes only. All indicators, IP addresses, domains, and event data used in the public lab documentation are fictional or sanitized.
+
+## Project Documentation
+
+| Document | Description |
+|---|---|
+| [Incident Report](incident-report.md) | Incident summary and investigation conclusion |
+| [Investigation Findings](evidence/investigation-findings.md) | Technical evidence and behavioral analysis |
+| [MITRE ATT&CK Mapping](mitre/attack-mapping.md) | Mapping of observed behavior to ATT&CK |
+| [SPL Queries](splunk/01-web-attack-detection.spl) | Splunk investigation queries |
+
+## Disclaimer
+
+This is an independent educational project. Public documentation uses fictional or sanitized data and does not disclose company information.
+
